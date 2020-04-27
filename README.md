@@ -1,1 +1,1 @@
-# Svg_styles
+# Style_splitted_screens
